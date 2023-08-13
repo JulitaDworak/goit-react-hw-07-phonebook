@@ -2,7 +2,7 @@ import axios from 'axios';
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import Notiflix from 'notiflix';
 
-// axios.defaults.baseURL = 'https://644a708a79279846dce8a780.mockapi.io/contacts';
+
 
 axios.defaults.baseURL = 'https://64c154f6fa35860baea0675d.mockapi.io/contacts';
 
