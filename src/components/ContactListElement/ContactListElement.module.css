@@ -1,0 +1,28 @@
+.contactElement {
+  padding: 10px;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  border: 2px solid grey;
+  border-radius: 5px;
+}
+
+.contactElement__button {
+  background: #ff0000;
+  border-radius: 5px;
+  padding: 5px 20px;
+  color: #ffffff;
+  font: 14px;
+  border: none;
+  cursor: pointer;
+}
+
+.contactElement__button:hover {
+  background: #b80000;
+  border-radius: 5px;
+  padding: 5px 20px;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}

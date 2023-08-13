@@ -1,0 +1,17 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 500px;
+  gap: 10px;
+}
+
+.filter__field {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: inherit;
+  font-size: 16px;
+}
